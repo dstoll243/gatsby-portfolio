@@ -19,8 +19,8 @@ module.exports = {
   ],
   siteMetadata: {
     title: 'David Stoll',
-    description: 'Full stack JavaScript developer',
-    keywords: 'full stack, JavaScript, portfolio, personal website',
+    description: 'Full stack software developer',
+    keywords: 'full stack, JavaScript, portfolio, personal website, software, seattle',
     url: 'https://www.davidstoll.info'
   }
 };

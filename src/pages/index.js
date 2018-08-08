@@ -14,7 +14,7 @@ const IndexPage = () => (
         </h5>
 
         <h3>
-          I am a Full-Stack JavaScript Developer (MERN) 
+          I am a Full-Stack Software Developer (MERN Stack) 
           with background in retail banking. <br></br>Driven by a collaborative mindset and a desire to improve lives through technical skills.
         </h3>
 
