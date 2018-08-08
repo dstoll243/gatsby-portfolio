@@ -29,9 +29,6 @@ class Links extends Component {
             </a>
           </li>
         </ul>
-        <div className="small">
-          Built using <a href="https://www.gatsbyjs.org/" target="_blank">GatsbyJS</a>
-        </div>
       </div>
     )
   }
