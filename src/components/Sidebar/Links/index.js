@@ -14,11 +14,6 @@ class Links extends Component {
             </a>
           </li>
           <li className="icon">
-            <a href="https://www.twitter.com/davidcstoll" target="_blank">
-              <i className="fa fa-twitter"></i>
-            </a>
-          </li>
-          <li className="icon">
             <a href="https://www.linkedin.com/in/dstoll243" target="_blank">
               <i className="fa fa-linkedin"></i>
             </a>
